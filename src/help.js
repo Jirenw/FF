@@ -1,14 +1,15 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
-
+_「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」_
+         (҂`_´)
+         <,︻╦̵̵̿╤─ ҉     ~ •••••••           👨🏻‍🦯
+█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
+▂▄▅█████████▅▄▃▂…
+[███████████████████]
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
 ◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
+   ○ Comando: ⌜ ${prefix}  
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
